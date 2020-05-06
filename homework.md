@@ -1,11 +1,11 @@
-## The homework
+# The homework
 
 ## Storyboard of the infrastructure
 
 What I would ask you to do for the homework is either:
 
-  * Architect a POC of WordPress running on GCP, AWS, or Azure
-  * Deploy a POC of WordPress running on GCP, AWS, or Azure
+  * Document the architecture a POC of WordPress running on GCP
+  * Deploy a POC of WordPress running on GCP
 
 Listed below is the basic requirements and you build off of those using what you think is the best infrastructure. Anything not specified in the requirements is your decision.
 
@@ -22,7 +22,7 @@ For the exercise if you choose to deploy onto GCP, we will provide you with a GC
 The requirements:
 
 - WordPress on GCP
-- Document your findings
+- Document your solution
 - Any infrastructure automation code in Git (it is not a requirement to use automation to build this, but if you do, bring the code as part of the homework so we can discuss)
 
 The usage patterns:

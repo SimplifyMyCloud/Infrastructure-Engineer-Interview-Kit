@@ -10,5 +10,7 @@
 ## Links
 
 [The homework](homework.md)
+
 [The homework discussion](discussion.md)
+
 [GCP success links](gcp_success_links.md)
