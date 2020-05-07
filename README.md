@@ -9,6 +9,8 @@
 
 ## Links
 
+[Schedule](schedule.md)
+
 [The homework](homework.md)
 
 [The homework discussion](discussion.md)
