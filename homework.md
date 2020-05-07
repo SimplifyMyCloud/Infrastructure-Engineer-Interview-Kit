@@ -4,7 +4,7 @@
 
 What I would ask you to do for the homework is either:
 
-  * Document the architecture a POC of WordPress running on GCP
+  * Document the architecture of a POC of WordPress running on GCP
   * Deploy a POC of WordPress running on GCP
 
 Listed below is the basic requirements and you build off of those using what you think is the best infrastructure. Anything not specified in the requirements is your decision.
@@ -23,7 +23,9 @@ The requirements:
 
 - WordPress on GCP
 - Document your solution
-- Any infrastructure automation code in Git (it is not a requirement to use automation to build this, but if you do, bring the code as part of the homework so we can discuss)
+- Any infrastructure automation code in Git
+
+_it is not a requirement to use automation to build this, but if you do, bring the code as part of the homework so we can discuss_
 
 The usage patterns:
 
