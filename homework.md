@@ -1,13 +1,5 @@
 # Infrastructure Homework
 
-## Interview Jeopardy
-
-"Interview jeopardy" is an insult to every candidates intelligence.  "How do you show the contents of a Linux directory?" - the only appropriate answer is "Why do you think I am lying about working in infrastructure for the past xx number of years?".  If you are asking my how to `ls` a directory on Linux, and my resume shows xx+ years of Linux SysAdmin experience, you are accusing me of lying about those xx+ years since running `ls` is done within the first 5 seconds of logging into a Linux box for the first time on the very first day of being a SysAdmin.  During a technical interview, asking *any* question that can be googled, is insulting to everyones intelligence.  The goal of a interview is not to see how well someone searches the web, but how they think and communicate.  Thinking and communicating are the two basic tenets of any technical engineering job.
-
-## Infrastructure Engineer Interviewing Kit
-
-The infrastructure homework kit is designed to showcase how the candidate thinks about building infrastructure and how the candidate communicates those ideas to the customer.  For this homework the interviewing engineer will act as a semi-technical startup founder looking to build a marketing website for the startup.  During the architectural discussion the "founder" may ask questions about the infrastructure proposal.  There are no trick questions, hidden answers, or "gotchas" as we just want to see how the candidate builds resilient infrastructure to get the job done.
-
 There are two paths to complete the homework:
 
 * Architect out a POC of WordPress running on GCP in documentation
@@ -45,6 +37,7 @@ The usage patterns:
 * Database queries are rare and DB usage is very low
 * Cost is the least important factor
 * Uptime and low complexity of infrastructure management is most important factor
+* Cloud native & best practices GCP infrastructure is preferred
 
 Topics for discussion:
 
