@@ -1,11 +1,14 @@
-# Scheduling of the interivew loop
+# Scheduling of the interview loop
 
 The interview schedule will consist of:
 
-* Initial screen meeting
-* Homework timeblock scheduling
-* Homework link sent via scheduled email
-* Homework submission via reply to scheduled email
-* Homework discussion meeting
-  * Feedback discussion for a pass
-  * Sales pitch discussion for a hire
+| Schedule                                         |            Time            |
+| ------------------------------------------------ | :------------------------: |
+| Initial phone screen with candidate              |         15 minutes         |
+| Schedule 2 hour time block                       |           Email            |
+| Homework link sent via scheduled email           |  Start 2 hour time limit   |
+| Homework submission via reply to scheduled email |                            |
+| Candidate presentation                           |         60 minutes         |
+| Candidate feedback & decision                    | Email/RecruitingTool/Slack |
+| Sales pitch for a hire                           |         60 minutes         |
+| Candidate feedback session for a no-hire         |         30 minutes         |

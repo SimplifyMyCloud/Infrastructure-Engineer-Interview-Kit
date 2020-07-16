@@ -1,11 +1,13 @@
 # Infrastructure Homework
 
-## The Goals are to understand how an interview candidate
+## The Goal of an infrastructure engineer interview
+
+_Interviews are to understand how the candidate:_
 
 * _thinks_ about infrastructure engineering.
 * _documents_ what they are thinking.
-* _tech pitches_ the solution.
-* _responds to_ a challenge to their solution.
+* _tech pitches_ the solution they are thinking.
+* _responds to_ a challenge to their thinking about the solution.
 
 ## Interview Jeopardy
 
