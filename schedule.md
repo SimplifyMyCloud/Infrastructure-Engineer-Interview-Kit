@@ -12,3 +12,13 @@ The interview schedule will consist of:
 | Candidate feedback & decision                    | Email/RecruitingTool/Slack |
 | Sales pitch for a hire                           |         60 minutes         |
 | Candidate feedback session for a no-hire         |         30 minutes         |
+
+## Links
+
+[Schedule](schedule.md)
+
+[The homework](homework.md)
+
+[The homework discussion](discussion.md)
+
+[GCP success links](gcp_success_links.md)

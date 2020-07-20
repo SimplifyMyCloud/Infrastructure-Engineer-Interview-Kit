@@ -33,10 +33,12 @@ The simplest, cloud native, GCP best practices solution for Wordpress on GCP wou
 
 Pushing the marketing website into the CDN provides the following benefits that the candidate should be highlighting in their proposal:
 
+* Simplest solution
 * Unlimited scaling
 * Simple text files
 * No need for WAFs
-* 
+* No server VMs to bake
+* No logins anywhere
   
 ### Challenging the proposal
 
@@ -46,4 +48,14 @@ Potential challenges:
 
 * Why not just install Wordpress on a single VM?
 * Why not just install MySQL on a VM?
-* 
+* Why multiple Kubernetes clusters? (If offering a K8s cluster in Japan & West Coast USA, a common solution.)
+
+## Links
+
+[Schedule](schedule.md)
+
+[The homework](homework.md)
+
+[The homework discussion](discussion.md)
+
+[GCP success links](gcp_success_links.md)
