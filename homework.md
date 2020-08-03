@@ -1,6 +1,6 @@
 # Infrastructure Homework
 
-There are two paths to complete the homework:
+## There are two paths to complete the homework:
 
 * Architect out a POC of WordPress running on GCP in documentation
 * Build out a POC of WordPress running on GCP using a deployment
@@ -21,12 +21,12 @@ If you hit the 2 hour mark and are not done, please stop working on the homework
 
 For the exercise if you choose to deploy onto GCP, we will provide you with a GCP project to build into or you use your own GCP.  If you do not have a GCP account, you can sign up and get $300 in credits to use for this homework, which should be less than $10.  
 
-The requirements:
+## The requirements:
 
 * POC architecture of WordPress on GCP that will scale to the usage patterns
 * Documentation of your proposal
 
-The usage patterns:
+## The usage patterns:
 
 * 90% of customers live in San Francisco and Tokyo
 * Current average hourly traffic is 1k active users
@@ -39,7 +39,7 @@ The usage patterns:
 * Uptime and low complexity of infrastructure management is most important factor
 * Cloud native & best practices GCP infrastructure is preferred
 
-Topics for discussion:
+## Topics for discussion:
 
 * High level overview of the infrastructure you built
 * What other ways could this have been deployed?
@@ -47,11 +47,11 @@ Topics for discussion:
 
 If you have any questions at all please ask.
 
-Subject Matter Experts tracks:
+## Subject Matter Experts tracks:
 
 There are three SME tracks that you may be assigned to follow.  If you are assigned one of these SME tracks, we want the homework solution to focus heavily on that track.  These SME tracks are in addition to the standard Cloud Consultant role and we will have discussed with you the track during the screening call.  If we did not discuss these SME tracks with you and you feel you have an expertise in any of the three, feel free to choose your strongest track for the homework.  Otherwise please skip this section.
 
-Security SME:
+### Security SME:
 
 For the homework, please engineer the Wordpress architecture to be highly secured on GCP.  Again we want GCP native security tooling and services to be used.  A few areas we will focus on:
 
@@ -61,7 +61,7 @@ For the homework, please engineer the Wordpress architecture to be highly secure
 * Offensive security
 * Ongoing security plan to address future security issues
 
-Networking SME:
+### Networking SME:
 
 For the homework, please engineer the Wordpress architecture so the Wordpress Server is hosted inside an on-prem datacenter.  That datacenter is then "cloud connected" to GCP to utilize GCP for hosting.  A few areas we will focus on:
 
@@ -70,7 +70,7 @@ For the homework, please engineer the Wordpress architecture so the Wordpress Se
 * Firewalling
 * Logs exported back to on-prem
 
-Kubernetes SME:
+### Kubernetes SME:
 
 For the homework, please engineer the Wordpress architecture so the Wordpress server is hosted on GKE.  A few areas we will focus on:
 
@@ -81,5 +81,3 @@ For the homework, please engineer the Wordpress architecture so the Wordpress se
 * GKE auditing with a focus on security
 * GKE deployments to CiCd Wordpress content
 * GKE deployments to update Wordpress itself
-
-
