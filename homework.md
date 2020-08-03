@@ -46,3 +46,40 @@ Topics for discussion:
 * What sites/blogs/documentation did you use while building?
 
 If you have any questions at all please ask.
+
+Subject Matter Experts tracks:
+
+There are three SME tracks that you may be assigned to follow.  If you are assigned one of these SME tracks, we want the homework solution to focus heavily on that track.  These SME tracks are in addition to the standard Cloud Consultant role and we will have discussed with you the track during the screening call.  If we did not discuss these SME tracks with you and you feel you have an expertise in any of the three, feel free to choose your strongest track for the homework.  Otherwise please skip this section.
+
+Security SME:
+
+For the homework, please engineer the Wordpress architecture to be highly secured on GCP.  Again we want GCP native security tooling and services to be used.  A few areas we will focus on:
+
+* Wordpress Admin page defensive lockdown
+* Common web vulnerabilities defense
+* DDoS defense
+* Offensive security
+* Ongoing security plan to address future security issues
+
+Networking SME:
+
+For the homework, please engineer the Wordpress architecture so the Wordpress Server is hosted inside an on-prem datacenter.  That datacenter is then "cloud connected" to GCP to utilize GCP for hosting.  A few areas we will focus on:
+
+* GCP cloud connect
+* Routing
+* Firewalling
+* Logs exported back to on-prem
+
+Kubernetes SME:
+
+For the homework, please engineer the Wordpress architecture so the Wordpress server is hosted on GKE.  A few areas we will focus on:
+
+* Wordpress hosting on GKE
+* GKE configuration
+* GKE securely hosting Wordpress
+* Logging from the Wordpress container to Stackdriver and a Log Warehouse
+* GKE auditing with a focus on security
+* GKE deployments to CiCd Wordpress content
+* GKE deployments to update Wordpress itself
+
+

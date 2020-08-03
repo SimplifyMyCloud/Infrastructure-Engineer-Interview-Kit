@@ -5,9 +5,9 @@
 * The candidate is presenting their proposal for a POC of Wordpress on GCP
 * The interviewers are assuming the role of the imaginary startup founder asking for the POC
 * The goal of the discussion is to allow the candidate to show:
-    * how they think about infrastructure
-    * how they communicate how they think about infrastructure
-    * how they can contribute to a healthy infrastructure culture
+  * how they think about infrastructure
+  * how they communicate how they think about infrastructure
+  * how they can contribute to a healthy infrastructure culture
 
 ## What to look for
 
