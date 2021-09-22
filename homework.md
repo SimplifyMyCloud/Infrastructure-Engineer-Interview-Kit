@@ -1,9 +1,9 @@
 # Infrastructure Homework
 
-## There are two paths to complete the homework:
+## Please document:
 
 * Architect out a POC of WordPress running on GCP in documentation
-* Build out a POC of WordPress running on GCP using a deployment
+* Do Not actually build anything, just document it
   
 All documentation will be contained in a Github repo shared back to the interviewing team.  
 
@@ -12,8 +12,6 @@ Please:
 *Do not spend more than 2 hours on this homework*
 
 *Do not use your current employers computer to complete the homework*
-
-*Automation code is not expected for this homework*
 
 *This is a POC of Wordpress, think development environment quality, not production which requires more than 2 hours*
 
