@@ -17,11 +17,9 @@ Please:
 
 If you hit the 2 hour mark and are not done, please stop working on the homework.  Come into the interview and we will discuss your progress, using it as part of the interview.  There only way to fail this homework is to not start it at all.  
 
-For the exercise if you choose to deploy onto GCP, we will provide you with a GCP project to build into or you use your own GCP.  If you do not have a GCP account, you can sign up and get $300 in credits to use for this homework, which should be less than $10.  
-
 ## The requirements:
 
-* POC architecture of WordPress on GCP that will scale to the usage patterns
+* POC architecture diagram of WordPress on GCP that will scale to the usage patterns
 * Documentation of your proposal
 
 ## The usage patterns:
@@ -39,9 +37,9 @@ For the exercise if you choose to deploy onto GCP, we will provide you with a GC
 
 ## Topics for discussion:
 
-* High level overview of the infrastructure you built
+* High level overview of the infrastructure you are proposing
 * What other ways could this have been deployed?
-* What sites/blogs/documentation did you use while building?
+* What sites/blogs/documentation did you use while architecting?
 
 If you have any questions at all please ask.
 
