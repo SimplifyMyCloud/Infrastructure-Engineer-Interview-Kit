@@ -20,7 +20,7 @@ If you hit the 2 hour mark and are not done, please stop working on the homework
 ## The requirements:
 
 * POC architecture diagram of WordPress on GCP that will scale to the usage patterns
-* Documentation of your proposal
+* Documentation of your proposal in a slide deck
 
 ## The usage patterns:
 
